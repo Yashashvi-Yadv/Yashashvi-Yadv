@@ -1,80 +1,21 @@
-# Hi there, I'm Yashashvi Yadav 👋
+# 💫 About Me:
+Hi, I'm a BCA student specializing in Data Science (IBM collaboration) and a passionate Full Stack Developer. I enjoy building real-world applications and continuously improving my skills in backend development, data science, and problem solving.<br><br>💻 I work with technologies like JavaScript, React, Next.js, Node.js, Express, MongoDB, Python, and SQL.<br>📊 I also explore Data Analysis, NumPy, Pandas, and Data Visualization.<br>🚀 My goal is to build scalable applications and contribute to impactful tech projects.<br><br>🔧 What I'm Currently Working On<br><br>School Management System (MERN + Next.js)<br><br>Real-time Chat Application using Socket.IO<br><br>AI/ML Spam Detection System<br><br>Data Science and Machine Learning projects<br><br>🌱 Currently Learning<br><br>Data Structures & Algorithms<br><br>Advanced Backend Development<br><br>Machine Learning<br><br>📫 Connect With Me<br><br>GitHub: (your GitHub link)<br><br>Blog: Nexus Coder<br><br>Website: iconomicindia.com<br><br>⚡ Fun fact: I love building projects that solve real problems and sharing tech knowledge through blogs and videos.
 
-<div align="center">
-  <h3>💻 Full Stack MERN Developer | 📊 Data Science Enthusiast</h3>
-  <p>Building scalable, microservice-driven web applications and exploring the intersections of Web Development and Data Science.</p>
-</div>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/yashashvi-yadav-0786272ba) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCX-KyXSbf022b3vyx2DeBow) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Yashashvi-Yadv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Yashashvi-Yadv&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashashvi-Yadv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[cite_start]I am a **Full Stack MERN Developer** with 6 months of hands-on experience architecting and deploying scalable web applications[cite: 5]. [cite_start]I specialize in crafting efficient, user-centric solutions with a strong focus on microservices, JWT authentication, and robust cloud deployment[cite: 6, 7]. 
-
-[cite_start]Currently, I am pursuing my **Bachelor of Computer Applications (BCA) with a specialization in Data Science (in collaboration with IBM)**[cite: 26]. [cite_start]This academic background allows me to blend modern web development with a deep understanding of Data Structures, Database Management Systems (DBMS), and Artificial Intelligence[cite: 27].
-
-* [cite_start]📝 **Technical Writer:** I regularly author technical blogs and share insights on software development for **Nexus Coder** and **IconomicIndia.com**[cite: 32].
-* [cite_start]☁️ **Cloud & Deployment:** I have successfully deployed 5+ full-stack projects utilizing platforms like **Render** and **Vercel**[cite: 33].
-* [cite_start]🧠 **Continuous Learning:** Actively strengthening my problem-solving capabilities through rigorous **DSA practice** [cite: 34][cite_start], while also participating in competitive coding contests and hackathons[cite: 28].
-* [cite_start]🎓 **Certifications:** Currently holding a Full Stack Developer Certification from Corizo (MERN, REST APIs) and actively pursuing a Data Science & Machine Learning certification from IBM[cite: 30].
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Yashashvi-Yadv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Yashashvi-Yadv&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Technical Arsenal
-
-### **Frontend Development**
-`React.js` | `Next.js` | `HTML5` | `CSS3` | `Tailwind CSS` | [cite_start]`Bootstrap` [cite: 9]
-
-### **Backend Development & Architecture**
-`Node.js` | `Express.js` | `Django` | `REST APIs` | `JWT Authentication` | [cite_start]`Microservices` [cite: 6, 9, 25]
-
-### **Databases**
-`MongoDB` | `PostgreSQL` | `MySQL` | [cite_start]`Redis` [cite: 10, 14]
-
-### **DevOps, Tools & Infrastructure**
-`Git` | `GitHub` | `Docker` | `Kafka` | `Postman` | `VS Code` | `Load Balancers` | [cite_start]`Socket.IO` [cite: 11, 15, 17]
-
----
-
-## 💻 Featured Projects
-
-### 🏫 [School Management System](https://github.com/Yashashvi-Yadv/School-Management)
-[cite_start]An enterprise-level management platform engineered for scalability and secure data handling[cite: 13].
-* [cite_start]**Tech Stack:** MERN, Microservices, Docker, Redis, Kafka[cite: 14, 15].
-* [cite_start]**Highlights:** Developed dedicated, secure dashboards for Principals, Teachers, and Students utilizing JWT authentication[cite: 15]. [cite_start]Implemented Docker, Redis caching, Kafka for event streaming, and a Load Balancer to ensure high system availability and scalability[cite: 15].
-
-### 📊 [MetaMetrix - File Analysis App](https://github.com/Yashashvi-Yadv/MetaMetrix)
-[cite_start]A robust analytical tool designed for processing and visualizing large datasets[cite: 19, 21].
-* [cite_start]**Tech Stack:** React, Node.js, Socket.IO, Django[cite: 20, 25].
-* [cite_start]**Highlights:** Architected a microservice-based application capable of complex file analytics across CSV, JSON, and Excel formats[cite: 21]. [cite_start]Successfully integrated a backend Django service to handle heavy computation and data visualization tasks[cite: 22].
-
-### 💬 [Real-time Chat Application](https://github.com/Yashashvi-Yadv/ChatApp)
-[cite_start]A seamless, real-time communication platform[cite: 16].
-* [cite_start]**Tech Stack:** Node.js, Socket.IO, Vercel, Render[cite: 17].
-* [cite_start]**Highlights:** Built a secure, real-time chat ecosystem with user authentication using Socket.IO[cite: 17]. [cite_start]Orchestrated a split deployment strategy, hosting the backend on Render and the frontend on Vercel for optimized delivery[cite: 17].
-
----
-
-## 📈 GitHub Activity & Stats
-
-*(Note: To activate these, you just need to paste this code into your README. The APIs will automatically fetch your live GitHub data!)*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashashvi-Yadv&show_icons=true&theme=radium&hide_border=true" alt="Yashashvi's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashashvi-Yadv&theme=radium&hide_border=true" alt="Yashashvi's GitHub Streak" width="48%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashashvi-Yadv&layout=compact&theme=radium&hide_border=true" alt="Top Languages" width="50%" />
-</div>
-
----
-
-## 📫 Let's Connect
-
-Looking to collaborate on exciting MERN stack projects, discuss Data Science, or talk about tech content creation!
-
-* [cite_start]📧 **Email:** [yashashviyadav49@email.com](mailto:yashashviyadav49@email.com) [cite: 2]
-* [cite_start]🐙 **GitHub:** [@Yashashvi-Yadv](https://github.com/Yashashvi-Yadv) [cite: 4]
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
